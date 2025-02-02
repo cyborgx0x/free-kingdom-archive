@@ -3,7 +3,7 @@ title: Your Blog Title
 description: Your blog description
 theme: jekyll-theme-minimal
 repository: cyborgx0x/free-kingdom-archive
-baseurl: "/pages/cyborgx0x/free-kingdom-archive"
+baseurl: ""
 
 # Timezone setting (change to your timezone)
 timezone: Asia/Singapore
