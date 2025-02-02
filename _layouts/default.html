@@ -1,21 +1,17 @@
 <!DOCTYPE html>
- <html lang="en">
- <head>
-     <meta charset="UTF-8">
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <title>{{ page.title }}</title>
-     
-      <!-- Tabler Core -->
-      <link href="{{ '/assets/tabler/css/tabler.min.css' | relative_url }}" rel="stylesheet"/>
-      
- </head>
- <body>
-   <main>
-     {{ content }}
-    </main>
-    
- <!-- Tabler Core -->
- <script src="{{ '/assets/tabler/js/tabler.min.js' | relative_url}}"></script>
- <script src="{{ '/assets/tabler/js/demo.min.js' | relative_url }}"></script> <!-- if you added it -->
- </body>
- </html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ page.title }}</title>
+
+    <link
+      href="{{ '/assets/tabler/css/tabler.min.css' | relative_url }}"
+      rel="stylesheet"
+    />
+    <script src="{{ '/assets/tabler/js/tabler.min.js' | relative_url}}"></script>
+  </head>
+  <body>
+    <main>{{ content }}</main>
+  </body>
+</html>
