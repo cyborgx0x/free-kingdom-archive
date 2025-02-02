@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to My Blog"
+title: Welcome to My Blog
 date: 2024-02-03
-categories: [blog, tech]
+categories: blog
 ---
 
 # Welcome!

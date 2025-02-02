@@ -2,9 +2,7 @@
 layout: post
 title: Báo cáo Phân tích Thị trường ngày 31/01/2025
 date: 2025-02-03 03:00:49 +0800
-categories:
-  - blog
-  - tech
+categories: blog
 tags:
 ---
 

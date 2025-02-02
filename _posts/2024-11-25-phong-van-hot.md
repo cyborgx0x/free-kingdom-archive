@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Phỏng vấn HOT"
+title: Phỏng vấn HOT
 date: 2024-11-25
-categories: [blog, tech]
+categories: blog
+tags:
 ---
 
 Xin chào quý vị, rất vui được gặp mọi người.

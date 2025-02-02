@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-01-10-sentiment.md",
+                "file": "_posts/2024-02-03-welcome-to-my-blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-10-sentiment"
+              "title": "2024-02-03-welcome-to-my-blog"
             }
           }
         ]
@@ -160,13 +160,12 @@
   },
   "active": "ec02dd999bd878f2",
   "lastOpenFiles": [
+    "_posts/2024-11-25-phong-van-hot.md",
+    "_posts/2025-01-10-sentiment.md",
     "_posts/2025-01-31-sentiment.md",
-    "_posts/2025-01-10-sentiment.md",
-    "_posts/2025-01-10-sentiment.md",
+    "_posts/2024-02-03-welcome-to-my-blog.md",
     "templates/blog-post.md",
     "templates",
-    "_posts/2024-11-25-phong-van-hot.md",
-    "_posts/2024-02-03-welcome-to-my-blog.md",
     "README.md",
     "2025-02-03.md"
   ]
