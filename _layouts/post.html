@@ -2,12 +2,17 @@
 layout: default
 ---
 <div class="container py-3">
-   <div class="card">
-       <div class="card-body">
-           <h1 class="card-title">{{ page.title }}</h1>
-           <div class="card-text">
-               {{ content }}
-           </div>
-       </div>
-   </div>
+  <div class="card">
+    <div class="card-header">
+       <h1 class="card-title mb-0">{{ page.title }}</h1>
+    </div>
+    <div class="card-body">
+       <div class="text-muted small">
+           Published on {{ page.date | date: "%Y-%m-%d" }} by {{ page.author }}
+        </div>
+      <div class="card-text">
+        {{ content }}
+      </div>
+    </div>
+  </div>
 </div>
