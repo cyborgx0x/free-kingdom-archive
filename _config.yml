@@ -1,0 +1,47 @@
+# _config.yml
+title: Your Blog Title
+description: Your blog description
+theme: jekyll-theme-minimal
+
+# Timezone setting (change to your timezone)
+timezone: Asia/Singapore
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Permalink structure
+permalink: /:year/:month/:day/:title/
+
+# Defaults for posts
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+      
+# Plugin settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Obsidian-friendly settings
+include:
+  - _pages
+  - _notes
+exclude:
+  - .obsidian/
+  - .trash/
+  - .DS_Store
+
+# Collection settings
+collections:
+  notes:
+    output: true
+    permalink: /notes/:title/
