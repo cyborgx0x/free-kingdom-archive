@@ -39,7 +39,20 @@ exclude:
   - .obsidian/
   - .trash/
   - .DS_Store
-
+  - vendor/
+  - "*.gem"
+  - "*.gemspec"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "Rakefile"
+  - ".sass-cache/"
+  - ".git/"
+  - ".jekyll-cache/"
+  - "node_modules/"
+  - "npm-debug.log"
+  - "yarn.lock"
+  - "package.json"
+  - "package-lock.json"
 # Collection settings
 collections:
   notes:
