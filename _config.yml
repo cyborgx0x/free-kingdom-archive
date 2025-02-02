@@ -36,6 +36,7 @@ plugins:
 include:
   - _pages
   - _notes
+  - assets/tabler
 exclude:
   - .obsidian/
   - .trash/
