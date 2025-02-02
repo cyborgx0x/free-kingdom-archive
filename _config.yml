@@ -1,6 +1,6 @@
 # _config.yml
-title: Your Blog Title
-description: Your blog description
+title: Free Kingdom
+description: Lưu trữ các bài phân tích
 theme: jekyll-theme-minimal
 repository: cyborgx0x/free-kingdom-archive
 baseurl: ""
@@ -25,7 +25,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Your Name"
+      author: "Lucas Nguyen"
       
 # Plugin settings
 plugins:
