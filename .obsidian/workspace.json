@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8bc48eeccbceebd6",
+  "active": "501b3a02144cb4be",
   "lastOpenFiles": [
+    "CNAME",
     "_posts/2025-01-10-sentiment.md",
     "_posts/2025-02-03-unleash-new-product.md",
     "_posts/2025-01-31-sentiment.md",
